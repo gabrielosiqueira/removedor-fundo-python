@@ -18,15 +18,20 @@ Feito por Gabriel.
 ```bash
 git clone https://github.com/seu-usuario/removedor-fundo.git
 cd removedor-fundo
+```
 
 ### 2. Crie e ative um ambiente virtual
 
+```bash
 python -m venv venv
 .\venv\Scripts\activate  
+```
 
 ### 3. Instale as dependências
 
+```bash
 pip install -r requirements.txt
+```
 
 ### 4. Execute a aplicação
 
