@@ -1,0 +1,10 @@
+# Não deixa subir a pasta do ambiente virtual e arquivos desnecessários
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.spec
+build/
+dist/
+*.ico
