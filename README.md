@@ -7,7 +7,7 @@ Feito por Gabriel.
 
 -  Python 
 -  CustomTkinter (interface moderna)
--  rembg (remoção de fundo com IA)
+-  rembg (remoção de fundo)
 -  Pillow (manipulação de imagens)
 -  PyInstaller (geração de executável)
 
