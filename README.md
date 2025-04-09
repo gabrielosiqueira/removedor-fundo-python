@@ -16,7 +16,7 @@ Feito por Gabriel.
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/removedor-fundo.git
+git clone https://github.com/gabrielosiqueira/removedor-fundo.git
 cd removedor-fundo
 ```
 
@@ -36,4 +36,14 @@ pip install -r requirements.txt
 ### 4. Execute a aplicação
 
 python main.py
+
+## Como gerar o .exe
+
+```bash
+pyinstaller --noconsole --onefile --icon=icone.ico main.py
+```
+
+O executável aparecerá em dist/main.exe
+
+
 
